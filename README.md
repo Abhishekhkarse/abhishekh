@@ -1,3 +1,3 @@
 # abhishekh
-This is my first Git Repo
+This is my first Git Repo.
 Author -Abhi Karse
